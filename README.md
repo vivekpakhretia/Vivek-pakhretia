@@ -1,1 +1,7 @@
 # Vivek-pakhretia
+It seems like a it was easy but it was not that easy and in this i learn coding and and it was easy for coding 
+ While the West region generates high sales volume, its profit margin is the lowest across all regions. This is primarily due to higher-than-average discounts on technology products, suggesting a need to reassess the discounting strategy in that area. Office Supplies, despite having lower sales than Technology, are the most consistently profitable category. Focusing on increasing the sales volume of high-margin office supplies could be a quick way to boost overall company profit.
+ If we campare this with the excel in excel we have to do everything by ourself but with this coding the works make more easy 
+ For us, excel is easier as we have been using excel since a very long time, so we have hands on it, but the challenging part of the excel is when it comes to creating charts and table, sometimes it can be confusing if the data is not clear. Meanwhile using google Colab is a new experience for us, and we find some difficulties in starting but later we realized that Google Colab is more user friendly and quick as we just need to run the code and it automatically comes up with all the data.
+ Which tool gave more flexible or insightful analysis?
+ Also, just for reference we have attached various screenshots of the steps that we followed in order to complete this assignment.
